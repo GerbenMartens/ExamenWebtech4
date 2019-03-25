@@ -3,7 +3,7 @@ package edu.ap.spring.test;
 import static org.junit.Assert.assertTrue;
 
 import java.awt.PageAttributes.MediaType;
-import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core;
 
 import org.junit.FixMethodOrder;
 import org.junit.Test;
